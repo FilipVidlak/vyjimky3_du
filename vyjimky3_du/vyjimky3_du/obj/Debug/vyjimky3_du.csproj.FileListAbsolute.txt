@@ -1,0 +1,11 @@
+C:\Users\filip\source\repos\vyjimky3_du\vyjimky3_du\bin\Debug\vyjimky3_du.exe.config
+C:\Users\filip\source\repos\vyjimky3_du\vyjimky3_du\bin\Debug\vyjimky3_du.exe
+C:\Users\filip\source\repos\vyjimky3_du\vyjimky3_du\bin\Debug\vyjimky3_du.pdb
+C:\Users\filip\source\repos\vyjimky3_du\vyjimky3_du\obj\Debug\vyjimky3_du.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\vyjimky3_du\vyjimky3_du\obj\Debug\vyjimky3_du.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\source\repos\vyjimky3_du\vyjimky3_du\obj\Debug\vyjimky3_du.Form1.resources
+C:\Users\filip\source\repos\vyjimky3_du\vyjimky3_du\obj\Debug\vyjimky3_du.Properties.Resources.resources
+C:\Users\filip\source\repos\vyjimky3_du\vyjimky3_du\obj\Debug\vyjimky3_du.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\vyjimky3_du\vyjimky3_du\obj\Debug\vyjimky3_du.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\vyjimky3_du\vyjimky3_du\obj\Debug\vyjimky3_du.exe
+C:\Users\filip\source\repos\vyjimky3_du\vyjimky3_du\obj\Debug\vyjimky3_du.pdb
